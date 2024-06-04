@@ -1,4 +1,3 @@
-
 document.addEventListener('DOMContentLoaded', function () {
     var tabs = document.querySelectorAll('.tab');
     var panels = document.querySelectorAll('.panel');
